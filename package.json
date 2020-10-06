@@ -9,15 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^3.5.0",
-    "random-flat-colors": "^1.0.4",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-router-dom": "^4.2.2",
-    "sqlite3": "^3.1.9",
-    "supertest": "^3.0.0",
-    "whatwg-fetch": "^2.0.3"
+    "chai": "^4.2.0",
+    "mocha": "^3.5.3",
+    "random-flat-colors": "^1.0.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "sqlite3": "^5.0.0",
+    "supertest": "^5.0.0",
+    "whatwg-fetch": "^3.4.1"
   },
   "devDependencies": {
     "babel": "^6.23.0",
